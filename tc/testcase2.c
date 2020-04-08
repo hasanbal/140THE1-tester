@@ -31,8 +31,7 @@ int main() {
 	printf("%d is at %d in tree with root[%d].\n", 10, depth_first_search_rec(binary_tree, 1,10), 1);
 	
 	printf("Find the height of the tree results:\n");
-	printf("The height of the tree is %d\n",find_min_of_tree_rec(binary_tree,0));
-	printf("The height of the tree is %d\n",find_min_of_tree_rec(binary_tree,1));
+	printf("The min of the tree is %d\n",find_min_of_tree_rec(binary_tree,0));
 	
 
 	return 0;

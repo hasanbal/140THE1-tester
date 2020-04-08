@@ -11,5 +11,4 @@ Depth first search results:
 9 is at -1 in tree with root[0].
 10 is at -1 in tree with root[1].
 Find the height of the tree results:
-The height of the tree is 10
-The height of the tree is 999999
+The min of the tree is 10
