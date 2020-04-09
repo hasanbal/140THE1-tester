@@ -26,11 +26,11 @@ for i in range(1,NUM_OF_TESTCASE+1):
 	exp = expected.read()
 
 	if(exp != out):
-		print "Testcase"+str(i)+" Failed!\n"
-		print "Correct Output:\n"+exp
-		print "\nYour Output:\n"+out
+		print( "Testcase"+str(i)+" Failed!\n")
+		print("Correct Output:\n"+exp)
+		print("\nYour Output:\n"+out)
 		wrong+=1
-
-print "You failed " + str(wrong) + " times on "+str(NUM_OF_TESTCASE)+" testcases."
+0
+print("You failed " + str(wrong) + " times on "+str(NUM_OF_TESTCASE)+" testcases.")
 t2 = time.time()
-print "Execute time is:", t2-t1
+print("Execute time is:", t2-t1)
