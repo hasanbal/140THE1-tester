@@ -3049,6 +3049,6 @@ The height of the tree is 4
 The height of the tree is 5
 The height of the tree is 8
 The height of the tree is 8
-The minimum of the tree is 1 for the root 0
+The minimum of the tree is 0 for the root 0
 The minimum of the tree is 1 for the root 1
-The minimum of the tree is 2 for the root 0
+The minimum of the tree is 0 for the root 2
