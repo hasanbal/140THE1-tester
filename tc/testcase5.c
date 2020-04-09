@@ -46,6 +46,10 @@ int main() {
 	printf("The height of the tree is %d\n",find_height_of_tree_rec(binary_tree,30));
 	printf("The height of the tree is %d\n",find_height_of_tree_rec(binary_tree,2));
 	printf("The height of the tree is %d\n",find_height_of_tree_rec(binary_tree,1));
+
+	printf("The minimum of the tree is %d for the root %d\n",find_min_of_tree_rec(binary_tree,0),0);
+	printf("The minimum of the tree is %d for the root %d\n",find_min_of_tree_rec(binary_tree,1),1);
+	printf("The minimum of the tree is %d for the root %d\n",find_min_of_tree_rec(binary_tree,2),2);
 	
 
 	return 0;
