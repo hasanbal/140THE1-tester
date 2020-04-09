@@ -59,7 +59,7 @@ Initial values
 57 - 27
 58 - 75
 59 - 85
-60 - 0
+60 - 92
 61 - 22
 62 - 24
 63 - 32
@@ -87,7 +87,7 @@ Initial values
 85 - 35
 86 - 43
 87 - 85
-88 - 0
+88 - 7
 89 - 8
 90 - 50
 91 - 3
@@ -194,7 +194,7 @@ Initial values
 192 - 99
 193 - 63
 194 - 30
-195 - 0
+195 - 11
 196 - 77
 197 - 27
 198 - 66
@@ -286,7 +286,7 @@ Initial values
 284 - 44
 285 - 30
 286 - 83
-287 - 0
+287 - 23
 288 - 52
 289 - 41
 290 - 75
@@ -496,7 +496,7 @@ Initial values
 494 - 85
 495 - 48
 496 - 80
-497 - 0
+497 - 50
 498 - 45
 499 - 32
 500 - 79
@@ -588,7 +588,7 @@ Initial values
 586 - 84
 587 - 27
 588 - 79
-589 - 0
+589 - 10
 590 - 76
 591 - 61
 592 - 23
@@ -989,7 +989,7 @@ Initial values
 987 - 17
 988 - 47
 989 - 81
-990 - 1
+990 - 0
 991 - 93
 992 - 78
 993 - 68
@@ -1128,7 +1128,7 @@ Initial values
 28
 							27
 79
-	0
+	23
 45
 		37
 87
@@ -1155,7 +1155,7 @@ Initial values
 	14
 79
 		19
-0
+10
 	47
 76
 					41
@@ -1406,7 +1406,7 @@ Initial values
 58
 	55
 81
-			0
+			7
 98
 	94
 75
@@ -1546,7 +1546,7 @@ Initial values
 5
 	63
 26
-		0
+		11
 92
 	49
 22
@@ -1942,7 +1942,7 @@ Initial values
 6
 	51
 1
-				0
+				92
 60
 	71
 56
@@ -1957,7 +1957,7 @@ Initial values
 		74
 81
 	85
-1
+0
 						25
 93
 	48
@@ -1968,7 +1968,7 @@ Initial values
 140
 			52
 53
-	0
+	50
 42
 		12
 101
@@ -2128,7 +2128,7 @@ Initial values
 28
 							27
 79
-	0
+	23
 45
 		37
 87
@@ -2155,7 +2155,7 @@ Initial values
 	14
 79
 		19
-0
+10
 	47
 76
 					41
@@ -2406,7 +2406,7 @@ Initial values
 58
 	55
 81
-			0
+			7
 98
 	94
 75
@@ -2546,7 +2546,7 @@ Initial values
 5
 	63
 26
-		0
+		11
 92
 	49
 22
@@ -2942,7 +2942,7 @@ Initial values
 6
 	51
 1
-				0
+				92
 60
 	71
 56
@@ -2957,7 +2957,7 @@ Initial values
 		74
 81
 	85
-1
+0
 						25
 93
 	48
@@ -2968,7 +2968,7 @@ Initial values
 140
 			52
 53
-	0
+	50
 42
 		12
 101
@@ -3049,3 +3049,6 @@ The height of the tree is 4
 The height of the tree is 5
 The height of the tree is 8
 The height of the tree is 8
+The minimum of the tree is 1 for the root 0
+The minimum of the tree is 1 for the root 1
+The minimum of the tree is 2 for the root 2
