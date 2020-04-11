@@ -3,6 +3,7 @@ import time
 
 NUM_OF_TESTCASE = 6
 wrong = 0
+wrong_tcs = []
 t1 = time.time()
 
 for i in range(1,NUM_OF_TESTCASE+1):
@@ -29,8 +30,10 @@ for i in range(1,NUM_OF_TESTCASE+1):
 		print( "Testcase"+str(i)+" Failed!\n")
 		print("Correct Output:\n"+exp)
 		print("\nYour Output:\n"+out)
+		wrong_tcs.append("Testcase"+str(i))
 		wrong+=1
 0
 print("You failed " + str(wrong) + " times on "+str(NUM_OF_TESTCASE)+" testcases.")
+print("You failed on the cases: {}".format(wrong_tcs))
 t2 = time.time()
-print("Execute time is:", t2-t1)
+print("Execute time is: {}".format(t2-t1))
